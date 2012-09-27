@@ -21,15 +21,15 @@ makes deploy Graphite-Pager very simple.
 2. Register and deploy the application to Heroku
 3. Add the Redis-to-Go Add-on
 
+4. Set Environment variables
 ```
     GRAPHITE_USER=HTTP-basic username
     GRAPHITE_PASS=HTTP-basic password
     GRAPHITE_URL=HTTPS(hopefully) URL to your Graphite installation
     PAGERDUTY_KEY=Specific PagerDuty application key
 ```
-
-4. Set up alerts in the `alerts.yml` file
-5. Push to Heroku!
+5. Set up alerts in the `alerts.yml` file
+6. Push to Heroku!
 
 ## Todo
 
