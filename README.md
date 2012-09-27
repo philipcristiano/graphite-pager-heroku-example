@@ -1,4 +1,4 @@
-# Graphite-Pager Heroku Example
+# Graphite Pager Heroku Example
 
 Example for running Graphite-Pager on Heroku
 

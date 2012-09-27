@@ -1,8 +1,5 @@
-
-
-
 alerts:
     - target: stats.seatgeek.app.deal_quality.venue_info_cache.hit
       warning: .5
-      crticial: 1
+      critical: 1
       name: Deal quality venue cache hits
