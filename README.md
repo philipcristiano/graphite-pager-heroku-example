@@ -6,7 +6,7 @@ Example for running Graphite-Pager on Heroku
 
 Graphite-Pager is an easy to use alerting tool for Graphite that will send
 Pager Duty alerts if a metric reaches a warning or critical level. Heroku
-makes deploy Graphite-Pager very simple.
+makes deploying Graphite-Pager very simple.
 
 
 ## Requirements
