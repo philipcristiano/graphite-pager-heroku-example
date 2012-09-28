@@ -11,8 +11,9 @@ makes deploying Graphite-Pager very simple.
 
 ## Requirements
 
-* A Heroku account
-* A PagerDury account
+* Heroku account
+* PagerDury account
+* Graphite installation accessible from the internet
 
 ## Installation
 
